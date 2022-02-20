@@ -1,5 +1,11 @@
 package ru.geekbrains.lesson1;
 
+/**
+ * Java 1. Homework #1
+ *
+ * @author Tatiana Kosorukova
+ * @version 20.02.2022
+ */
 public class Lesson1 {
     public static void main(String[] args) {
         printThreeWords();
